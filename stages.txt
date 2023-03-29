@@ -1,0 +1,4 @@
+scm clone
+compile
+test
+package etc
