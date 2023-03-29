@@ -1,4 +1,6 @@
 scm clone
 compile
 test
-package etc
+package 
+deploy
+etc
